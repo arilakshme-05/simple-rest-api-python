@@ -77,7 +77,7 @@ URL: http://127.0.0.1:5000/users/1
 
 Method: DELETE
 
- How to Run
+How to Run:
 1.Clone the repository:
 git clone [https://github.com/arilakshme-05/flask-rest-api.git](https://github.com/arilakshme-05/flask-rest-api.git)
 cd flask-rest-api
